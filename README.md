@@ -1,4 +1,4 @@
-# OS-mini-project
+# OS-mini-project(Student Management System) 
 #!/bin/bash
 
 # Student data file
