@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>Student Record Management System - Bash Script</title>
-</head>
-<body>
 
 <h1>🎓 Student Record Management System</h1>
 <p>This project is a simple <strong>command-line Student Record Management System</strong> written in Bash. It manages student data such as names, roll numbers, courses, marks, grades, and CGPAs.</p>
@@ -105,12 +98,3 @@ Choose your role:
 1. Teacher Login
 2. Student Login
 </pre>
-
-<h2>👨‍💻 Contributing</h2>
-<p>Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.</p>
-
-<h2>📜 License</h2>
-<p>This project is open source and available under the MIT License.</p>
-
-</body>
-</html>
